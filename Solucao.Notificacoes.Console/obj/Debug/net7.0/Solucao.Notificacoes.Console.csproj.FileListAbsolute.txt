@@ -1,0 +1,17 @@
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\bin\Debug\net7.0\Solucao.Notificacoes.Console.exe
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\bin\Debug\net7.0\Solucao.Notificacoes.Console.deps.json
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\bin\Debug\net7.0\Solucao.Notificacoes.Console.runtimeconfig.json
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\bin\Debug\net7.0\Solucao.Notificacoes.Console.dll
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\bin\Debug\net7.0\Solucao.Notificacoes.Console.pdb
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\bin\Debug\net7.0\FluentValidator.dll
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\Solucao.Notificacoes.Console.csproj.AssemblyReference.cache
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\Solucao.Notificacoes.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\Solucao.Notificacoes.Console.AssemblyInfoInputs.cache
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\Solucao.Notificacoes.Console.AssemblyInfo.cs
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\Solucao.Notificacoes.Console.csproj.CoreCompileInputs.cache
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\Solucao.Notificacoes.Console.csproj.CopyComplete
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\Solucao.Notificacoes.Console.dll
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\refint\Solucao.Notificacoes.Console.dll
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\Solucao.Notificacoes.Console.pdb
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\Solucao.Notificacoes.Console.genruntimeconfig.cache
+C:\Git\Notificacoes\Solucao.Notificacoes.Console\obj\Debug\net7.0\ref\Solucao.Notificacoes.Console.dll
